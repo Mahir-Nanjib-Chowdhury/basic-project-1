@@ -6,3 +6,7 @@ setInterval(function () {
   countElement = (countElement + 1) % elements.length;
   elements[countElement].classList.add("current");
 }, 2000);
+
+
+// <!-- <this code is done></this> -->
+
